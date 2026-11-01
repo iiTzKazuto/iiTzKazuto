@@ -89,12 +89,6 @@ All data in these projects is simulated. No real customers or companies.
 
 ---
 
-## Currently
-
-- Building a Power BI dashboard on my bank operations data
-- Practicing Python for data analysis
-- Applying for data and business analyst internships
-
 ---
 
 <div align="center">
