@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B2545,100:0E9AA7&text=Abraham%20E.%20Boncocan&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=58&animation=fadeIn" alt="Abraham E. Boncocan, Aspiring Data Analyst" width="100%" />
 
 <a href="https://github.com/iiTzKazuto/sql-data-analytics-portfolio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=0E9AA7&center=true&vCenter=true&width=720&lines=SQL+%7C+Excel+%7C+Data+Cleaning;Turning+messy+data+into+clear+insights;Reconciliation+and+data+validation;Open+to+data+and+business+analyst+internships" alt="Typing animation: SQL, Excel, Data Cleaning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=0E9AA7&center=true&vCenter=true&width=720&lines=SQL+%7C+Excel+%7C+Data+Cleaning;Turning+messy+data+into+clear+insights;Reconciliation+and+data+validation" alt="Typing animation: SQL, Excel, Data Cleaning" />
 </a>
 
 <br/>
