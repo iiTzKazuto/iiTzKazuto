@@ -15,19 +15,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-I build end to end data projects focusing on data cleaning, relational database design, and financial/operational reconciliation.
-
-| # | Project Name | Business & Technical Scope | Tech Stack | Status |
-| :---: | :--- | :--- | :---: | :---: |
-| **1** | **[Bank Operations Data Project](https://github.com/iitZKazuto)** | Cleaned 16k+ rows of raw bank data, loaded into a 6-table MySQL database, performed balance reconciliations, and built overdue-loan aging reports. | `Excel`, `MySQL` | **Completed** |
-| **2** | **[Fund & Transaction Tracker](https://github.com/iitZKazuto)** | Designed a 6-table relational database modeling an investment platform; wrote 10+ custom SQL validation checks to flag duplicate trades and amount mismatches. | `MySQL` | **Completed** |
-| **3** | **[Marketing Analytics Database](https://github.com/iitZKazuto)** | Analyzed campaign performance, ROAS, and customer value metrics for an online retail framework using advanced SQL aggregations. | `MySQL` | **Completed** |
-| **4** | **[Employee Management Database](https://github.com/iitZKazuto)** | Developed a relational schema with strict check constraints on pay ranges and wrote complex JOIN/aggregate queries for automated payroll reporting. | `MySQL` | **Completed** |
-
----
-
 ## 💡 Core Competencies & Workflow
 * **SQL Proficiency:** Complex JOINs, Subqueries, CTEs, Window Functions, Views, and Data Integrity Checks.
 * **Data Hygiene:** Standardizing messy records, handling missing values, and executing multi-step reconciliation workflows.
