@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abrahamboncocan-004865194"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/abraham-boncocan-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:abraham.ramyramy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://app.notion.com/p/Hi-I-m-Abraham-E-Boncocan-241d3888976b80448d3de8d61cf16739?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio" /></a>
 
@@ -57,16 +57,16 @@ All data in these projects is simulated. No real customers or companies.
     </td>
   </tr>
   <tr>
-    <td><b>Programming</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Learning Now</b></td>
+    <td><b>Data Visualization</b></td>
     <td>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ All data in these projects is simulated. No real customers or companies.
 
 I'm open to internship opportunities in data and business analysis. Message me on LinkedIn or by email.
 
-<a href="https://www.linkedin.com/in/abrahamboncocan-004865194"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/abraham-boncocan-/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0E9AA7,100:0B2545&section=footer" alt="" width="100%" />
 
