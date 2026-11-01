@@ -89,8 +89,6 @@ All data in these projects is simulated. No real customers or companies.
 
 ---
 
----
-
 <div align="center">
 
 ### Let's Connect
