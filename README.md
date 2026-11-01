@@ -25,4 +25,4 @@
 ### 📫 Let's Connect
 * **Email:** abraham.ramyramy@gmail.com
 * **LinkedIn:** [linkedin.com/in/abrahamboncocan-004865194](https://www.linkedin.com/in/abrahamboncocan-004865194)
-* **Portfolio / Notes:** [Notion Workspace](https://app.notion.so/p/Hi-I-m-Abraham-E-Boncocan-?utm_source=share_via&utm_content=cf16739?source=copy_link)
+* **Portfolio / Notes:** [Notion Workspace](https://app.notion.com/p/Hi-I-m-Abraham-E-Boncocan-241d3888976b80448d3de8d61cf16739?source=copy_link)
