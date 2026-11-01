@@ -17,7 +17,7 @@
 
 ## 🚀 Featured Projects
 
-I build end-to-end data projects focusing on data cleaning, relational database design, and financial/operational reconciliation.
+I build end to end data projects focusing on data cleaning, relational database design, and financial/operational reconciliation.
 
 | # | Project Name | Business & Technical Scope | Tech Stack | Status |
 | :---: | :--- | :--- | :---: | :---: |
