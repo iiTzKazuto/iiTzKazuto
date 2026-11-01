@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Abraham E. Boncocan 👋
 
-<!--
-**iiTzKazuto/iiTzKazuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** | Marketing Management Student  
+Focused on turning raw data into clear, useful insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm a Marketing Management student building strong skills in **data analytics**.  
+I work with SQL, Excel, and data cleaning to solve real business problems — from bank operations data to customer and transaction analysis.
+
+I enjoy projects where messy data becomes something useful for decisions.
+
+---
+
+### Skills
+
+**Data Analytics**  
+`SQL` `MySQL` `Excel` `Data Cleaning` `Data Validation` `Reconciliation`
+
+**Analysis & Visualization**  
+`Power BI` `Tableau` `Data Visualization` `Reporting`
+
+**Other Tools**  
+`Google Sheets` `Canva` `Shopify`
+
+---
+
+### What I'm Working On
+- SQL projects with real-world style datasets  
+- Data cleaning and reconciliation workflows  
+- Building a stronger analytics portfolio  
+
+---
+
+### Let's Connect
+- 📧 Email: abraham.ramyramy@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/abraham-boncocan-004865194](https://www.linkedin.com/in/abraham-boncocan-004865194)
+
+Open to learning opportunities, feedback, and entry-level data analytics roles.
