@@ -93,7 +93,7 @@ All data in these projects is simulated. No real customers or companies.
 
 ### Let's Connect
 
-I'm open to internship opportunities in data and business analysis. Message me on LinkedIn or by email.
+I'm open to job opportunities or project collaborations in data and business analysis. Message me on LinkedIn or by email.
 
 <a href="https://www.linkedin.com/in/abraham-boncocan-/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
